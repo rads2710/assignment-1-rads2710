@@ -5,11 +5,11 @@ import Person.Person;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class ContactList
+public class Contact
 {
     private Node head;
 
-    public ContactList()
+    public Contact()
     {
         head = null;
     }
